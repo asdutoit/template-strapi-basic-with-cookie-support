@@ -1,0 +1,9 @@
+{
+  "workbench.colorTheme": "Monokai",
+  "workbench.colorCustomizations": {
+    "titleBar.activeForeground": "#000",
+    "titleBar.inactiveForeground": "#000000CC",
+    "titleBar.activeBackground": "#ff8000",
+    "titleBar.inactiveBackground": "#ffb300cc"
+  }
+}
